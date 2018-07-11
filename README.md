@@ -2,6 +2,16 @@
 
 ## Vision
 
+#### [COCO](http://cocodataset.org/#home)
+
+COCO is a large-scale object detection, segmentation, and captioning dataset.
+
+- 330K images (>200K labeled)
+- 1.5 million object instances
+- 80 object categories, 91 stuff categories
+- 5 captions per image
+- 250,000 people with keypoints
+
 #### [Open Images Dataset V4](https://storage.googleapis.com/openimages/web/index.html)
 
 - 15,440,132 boxes on 600 categories
@@ -65,3 +75,11 @@ A knowledge base, an ongoing effort to connect structured image concepts to lang
 #### [OpenAI Gym](https://gym.openai.com/)
 
 Gym is a toolkit for developing and comparing reinforcement learning algorithms.
+
+#### [Microsoft Research Open Data](https://msropendata.com)
+
+From CS to physics. For CS featured:
+
+- [NewsQA](https://www.microsoft.com/en-us/research/?post_type=msr-project&p=486827&secret=z7JOjW): 12,744 stories with 119,633 Question-Answer Pairs.
+- [Frames](https://www.microsoft.com/en-us/research/?post_type=msr-project&p=487187&secret=ZyeOOd): Human-human goal oriented dataset with 1369 dialogues. (a.k.a. [Maluuba Frames](https://datasets.maluuba.com/Frames))
+- [Dual Word Embeddings Trained on Bing Queries](https://www.microsoft.com/en-us/research/project/dual-embedding-space-model-desm/)
