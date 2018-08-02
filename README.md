@@ -83,3 +83,9 @@ From CS to physics. For CS featured:
 - [NewsQA](https://www.microsoft.com/en-us/research/?post_type=msr-project&p=486827&secret=z7JOjW): 12,744 stories with 119,633 Question-Answer Pairs.
 - [Frames](https://www.microsoft.com/en-us/research/?post_type=msr-project&p=487187&secret=ZyeOOd): Human-human goal oriented dataset with 1369 dialogues. (a.k.a. [Maluuba Frames](https://datasets.maluuba.com/Frames))
 - [Dual Word Embeddings Trained on Bing Queries](https://www.microsoft.com/en-us/research/project/dual-embedding-space-model-desm/)
+
+#### SoccerNet
+
+https://silviogiancola.github.io/SoccerNet/
+
+A Scalable Dataset for Action Spotting in Soccer Videos.
